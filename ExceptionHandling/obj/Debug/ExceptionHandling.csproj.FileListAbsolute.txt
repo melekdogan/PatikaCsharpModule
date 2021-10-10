@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\PatikaCSharpModule\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\PatikaCSharpModule\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\PatikaCSharpModule\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\PatikaCSharpModule\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
