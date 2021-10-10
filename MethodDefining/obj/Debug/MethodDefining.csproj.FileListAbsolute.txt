@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\MethodDefining\bin\Debug\MethodDefining.exe.config
+D:\PatikaCSharpModule\MethodDefining\bin\Debug\MethodDefining.exe
+D:\PatikaCSharpModule\MethodDefining\bin\Debug\MethodDefining.pdb
+D:\PatikaCSharpModule\MethodDefining\obj\Debug\MethodDefining.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\MethodDefining\obj\Debug\MethodDefining.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\MethodDefining\obj\Debug\MethodDefining.exe
+D:\PatikaCSharpModule\MethodDefining\obj\Debug\MethodDefining.pdb
