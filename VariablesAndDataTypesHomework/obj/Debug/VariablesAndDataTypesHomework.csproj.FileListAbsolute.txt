@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\VariablesAndDataTypesHomework\bin\Debug\VariablesAndDataTypesHomework.exe.config
+D:\PatikaCSharpModule\VariablesAndDataTypesHomework\bin\Debug\VariablesAndDataTypesHomework.exe
+D:\PatikaCSharpModule\VariablesAndDataTypesHomework\bin\Debug\VariablesAndDataTypesHomework.pdb
+D:\PatikaCSharpModule\VariablesAndDataTypesHomework\obj\Debug\VariablesAndDataTypesHomework.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\VariablesAndDataTypesHomework\obj\Debug\VariablesAndDataTypesHomework.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\VariablesAndDataTypesHomework\obj\Debug\VariablesAndDataTypesHomework.exe
+D:\PatikaCSharpModule\VariablesAndDataTypesHomework\obj\Debug\VariablesAndDataTypesHomework.pdb
