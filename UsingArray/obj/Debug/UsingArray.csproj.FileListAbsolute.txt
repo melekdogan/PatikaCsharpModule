@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\UsingArray\bin\Debug\UsingArray.exe.config
+D:\PatikaCSharpModule\UsingArray\bin\Debug\UsingArray.exe
+D:\PatikaCSharpModule\UsingArray\bin\Debug\UsingArray.pdb
+D:\PatikaCSharpModule\UsingArray\obj\Debug\UsingArray.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\UsingArray\obj\Debug\UsingArray.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\UsingArray\obj\Debug\UsingArray.exe
+D:\PatikaCSharpModule\UsingArray\obj\Debug\UsingArray.pdb
