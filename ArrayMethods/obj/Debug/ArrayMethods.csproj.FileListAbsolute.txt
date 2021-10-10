@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\ArrayMethods\bin\Debug\ArrayMethods.exe.config
+D:\PatikaCSharpModule\ArrayMethods\bin\Debug\ArrayMethods.exe
+D:\PatikaCSharpModule\ArrayMethods\bin\Debug\ArrayMethods.pdb
+D:\PatikaCSharpModule\ArrayMethods\obj\Debug\ArrayMethods.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\ArrayMethods\obj\Debug\ArrayMethods.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\ArrayMethods\obj\Debug\ArrayMethods.exe
+D:\PatikaCSharpModule\ArrayMethods\obj\Debug\ArrayMethods.pdb
