@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\Conditions\bin\Debug\Conditions.exe.config
+D:\PatikaCSharpModule\Conditions\bin\Debug\Conditions.exe
+D:\PatikaCSharpModule\Conditions\bin\Debug\Conditions.pdb
+D:\PatikaCSharpModule\Conditions\obj\Debug\Conditions.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\Conditions\obj\Debug\Conditions.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\Conditions\obj\Debug\Conditions.exe
+D:\PatikaCSharpModule\Conditions\obj\Debug\Conditions.pdb
