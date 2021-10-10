@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\OperatorsHomework\bin\Debug\OperatorsHomework.exe.config
+D:\PatikaCSharpModule\OperatorsHomework\bin\Debug\OperatorsHomework.exe
+D:\PatikaCSharpModule\OperatorsHomework\bin\Debug\OperatorsHomework.pdb
+D:\PatikaCSharpModule\OperatorsHomework\obj\Debug\OperatorsHomework.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\OperatorsHomework\obj\Debug\OperatorsHomework.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\OperatorsHomework\obj\Debug\OperatorsHomework.exe
+D:\PatikaCSharpModule\OperatorsHomework\obj\Debug\OperatorsHomework.pdb
