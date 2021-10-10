@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\WhileAndForeachLoops\bin\Debug\WhileAndForeachLoops.exe.config
+D:\PatikaCSharpModule\WhileAndForeachLoops\bin\Debug\WhileAndForeachLoops.exe
+D:\PatikaCSharpModule\WhileAndForeachLoops\bin\Debug\WhileAndForeachLoops.pdb
+D:\PatikaCSharpModule\WhileAndForeachLoops\obj\Debug\WhileAndForeachLoops.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\WhileAndForeachLoops\obj\Debug\WhileAndForeachLoops.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\WhileAndForeachLoops\obj\Debug\WhileAndForeachLoops.exe
+D:\PatikaCSharpModule\WhileAndForeachLoops\obj\Debug\WhileAndForeachLoops.pdb
