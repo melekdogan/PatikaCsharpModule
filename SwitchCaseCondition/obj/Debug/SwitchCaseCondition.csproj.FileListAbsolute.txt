@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\SwitchCaseCondition\bin\Debug\SwitchCaseCondition.exe.config
+D:\PatikaCSharpModule\SwitchCaseCondition\bin\Debug\SwitchCaseCondition.exe
+D:\PatikaCSharpModule\SwitchCaseCondition\bin\Debug\SwitchCaseCondition.pdb
+D:\PatikaCSharpModule\SwitchCaseCondition\obj\Debug\SwitchCaseCondition.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\SwitchCaseCondition\obj\Debug\SwitchCaseCondition.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\SwitchCaseCondition\obj\Debug\SwitchCaseCondition.exe
+D:\PatikaCSharpModule\SwitchCaseCondition\obj\Debug\SwitchCaseCondition.pdb
