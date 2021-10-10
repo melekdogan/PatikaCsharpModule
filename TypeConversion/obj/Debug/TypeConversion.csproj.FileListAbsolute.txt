@@ -1,0 +1,7 @@
+D:\PatikaCSharpModule\TypeConversion\bin\Debug\TypeConversion.exe.config
+D:\PatikaCSharpModule\TypeConversion\bin\Debug\TypeConversion.exe
+D:\PatikaCSharpModule\TypeConversion\bin\Debug\TypeConversion.pdb
+D:\PatikaCSharpModule\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+D:\PatikaCSharpModule\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+D:\PatikaCSharpModule\TypeConversion\obj\Debug\TypeConversion.exe
+D:\PatikaCSharpModule\TypeConversion\obj\Debug\TypeConversion.pdb
