@@ -1,0 +1,16 @@
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\bin\Debug\net5.0\Classes.exe
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\bin\Debug\net5.0\Classes.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\bin\Debug\net5.0\ref\Classes.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\obj\Debug\net5.0\Classes.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\obj\Debug\net5.0\ref\Classes.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
