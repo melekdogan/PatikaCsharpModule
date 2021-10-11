@@ -1,0 +1,16 @@
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\bin\Debug\net5.0\StaticClassAndMembers.exe
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\bin\Debug\net5.0\StaticClassAndMembers.deps.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\bin\Debug\net5.0\StaticClassAndMembers.runtimeconfig.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\bin\Debug\net5.0\StaticClassAndMembers.runtimeconfig.dev.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\bin\Debug\net5.0\StaticClassAndMembers.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\bin\Debug\net5.0\ref\StaticClassAndMembers.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\bin\Debug\net5.0\StaticClassAndMembers.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\obj\Debug\net5.0\StaticClassAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\obj\Debug\net5.0\StaticClassAndMembers.AssemblyInfoInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\obj\Debug\net5.0\StaticClassAndMembers.AssemblyInfo.cs
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\obj\Debug\net5.0\StaticClassAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\obj\Debug\net5.0\StaticClassAndMembers.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\obj\Debug\net5.0\ref\StaticClassAndMembers.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\obj\Debug\net5.0\StaticClassAndMembers.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\obj\Debug\net5.0\StaticClassAndMembers.genruntimeconfig.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\StaticClassAndMembers\obj\Debug\net5.0\StaticClassAndMembers.csproj.AssemblyReference.cache
