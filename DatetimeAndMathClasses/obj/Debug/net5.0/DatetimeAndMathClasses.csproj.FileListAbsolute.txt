@@ -1,0 +1,16 @@
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\bin\Debug\net5.0\DatetimeAndMathClasses.exe
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\bin\Debug\net5.0\DatetimeAndMathClasses.deps.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\bin\Debug\net5.0\DatetimeAndMathClasses.runtimeconfig.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\bin\Debug\net5.0\DatetimeAndMathClasses.runtimeconfig.dev.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\bin\Debug\net5.0\DatetimeAndMathClasses.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\bin\Debug\net5.0\ref\DatetimeAndMathClasses.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\bin\Debug\net5.0\DatetimeAndMathClasses.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\obj\Debug\net5.0\DatetimeAndMathClasses.csproj.AssemblyReference.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\obj\Debug\net5.0\DatetimeAndMathClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\obj\Debug\net5.0\DatetimeAndMathClasses.AssemblyInfoInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\obj\Debug\net5.0\DatetimeAndMathClasses.AssemblyInfo.cs
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\obj\Debug\net5.0\DatetimeAndMathClasses.csproj.CoreCompileInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\obj\Debug\net5.0\DatetimeAndMathClasses.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\obj\Debug\net5.0\ref\DatetimeAndMathClasses.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\obj\Debug\net5.0\DatetimeAndMathClasses.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\DatetimeAndMathClasses\obj\Debug\net5.0\DatetimeAndMathClasses.genruntimeconfig.cache
