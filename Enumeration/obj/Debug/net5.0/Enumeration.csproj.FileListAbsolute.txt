@@ -1,0 +1,15 @@
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\bin\Debug\net5.0\Enumeration.exe
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\bin\Debug\net5.0\Enumeration.deps.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\bin\Debug\net5.0\Enumeration.runtimeconfig.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\bin\Debug\net5.0\Enumeration.runtimeconfig.dev.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\bin\Debug\net5.0\Enumeration.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\bin\Debug\net5.0\ref\Enumeration.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\bin\Debug\net5.0\Enumeration.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\obj\Debug\net5.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\obj\Debug\net5.0\Enumeration.AssemblyInfoInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\obj\Debug\net5.0\Enumeration.AssemblyInfo.cs
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\obj\Debug\net5.0\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\obj\Debug\net5.0\Enumeration.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\obj\Debug\net5.0\ref\Enumeration.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\obj\Debug\net5.0\Enumeration.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\Enumeration\obj\Debug\net5.0\Enumeration.genruntimeconfig.cache
