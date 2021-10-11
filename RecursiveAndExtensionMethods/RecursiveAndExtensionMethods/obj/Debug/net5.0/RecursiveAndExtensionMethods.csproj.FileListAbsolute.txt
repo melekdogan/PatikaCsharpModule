@@ -1,0 +1,16 @@
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.exe
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.deps.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.runtimeconfig.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.runtimeconfig.dev.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\bin\Debug\net5.0\ref\RecursiveAndExtensionMethods.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.AssemblyInfo.cs
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\obj\Debug\net5.0\ref\RecursiveAndExtensionMethods.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.genruntimeconfig.cache
