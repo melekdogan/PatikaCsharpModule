@@ -1,0 +1,15 @@
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\bin\Debug\net5.0\UsingArrayList.exe
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\bin\Debug\net5.0\UsingArrayList.deps.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\bin\Debug\net5.0\UsingArrayList.runtimeconfig.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\bin\Debug\net5.0\UsingArrayList.runtimeconfig.dev.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\bin\Debug\net5.0\UsingArrayList.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\bin\Debug\net5.0\ref\UsingArrayList.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\bin\Debug\net5.0\UsingArrayList.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\obj\Debug\net5.0\UsingArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\obj\Debug\net5.0\UsingArrayList.AssemblyInfoInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\obj\Debug\net5.0\UsingArrayList.AssemblyInfo.cs
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\obj\Debug\net5.0\UsingArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\obj\Debug\net5.0\UsingArrayList.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\obj\Debug\net5.0\ref\UsingArrayList.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\obj\Debug\net5.0\UsingArrayList.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\UsingArrayList\obj\Debug\net5.0\UsingArrayList.genruntimeconfig.cache
