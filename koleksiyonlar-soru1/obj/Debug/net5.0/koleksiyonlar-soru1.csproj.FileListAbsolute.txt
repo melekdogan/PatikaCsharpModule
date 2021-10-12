@@ -1,0 +1,16 @@
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\bin\Debug\net5.0\koleksiyonlar-soru1.exe
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\bin\Debug\net5.0\koleksiyonlar-soru1.deps.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\bin\Debug\net5.0\koleksiyonlar-soru1.runtimeconfig.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\bin\Debug\net5.0\koleksiyonlar-soru1.runtimeconfig.dev.json
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\bin\Debug\net5.0\koleksiyonlar-soru1.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\bin\Debug\net5.0\ref\koleksiyonlar-soru1.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\bin\Debug\net5.0\koleksiyonlar-soru1.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\obj\Debug\net5.0\koleksiyonlar-soru1.csproj.AssemblyReference.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\obj\Debug\net5.0\koleksiyonlar-soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\obj\Debug\net5.0\koleksiyonlar-soru1.AssemblyInfoInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\obj\Debug\net5.0\koleksiyonlar-soru1.AssemblyInfo.cs
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\obj\Debug\net5.0\koleksiyonlar-soru1.csproj.CoreCompileInputs.cache
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\obj\Debug\net5.0\koleksiyonlar-soru1.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\obj\Debug\net5.0\ref\koleksiyonlar-soru1.dll
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\obj\Debug\net5.0\koleksiyonlar-soru1.pdb
+C:\Users\Melek\source\repos\RecursiveAndExtensionMethods\koleksiyonlar-soru1\obj\Debug\net5.0\koleksiyonlar-soru1.genruntimeconfig.cache
